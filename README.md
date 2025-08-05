@@ -25,5 +25,3 @@ Adjust dataset paths, model parameters, and sequence duration as needed for diff
 ## Evaluation and Inference
 
 Jupyter notebooks contain evaluations of the trained models
-
-```
