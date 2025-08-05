@@ -1,0 +1,6 @@
+{
+    "nb_channels": 2,
+    "nfft": 2048,
+    "nhop": 1024,
+    "sample_rate": 44100.0
+}
